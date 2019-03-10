@@ -13,6 +13,9 @@ A object recognize projects of yolo-simply refer yolov1/v2/v3.
 5.Some detect result at "test_img_result"
 
 **Notice
+
 This project is a simple implement  for understanding object detection of yolo.
+
 NO Classify predict 
+
 Have some differents from the paper. 
